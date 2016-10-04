@@ -1,0 +1,15 @@
+{
+  "name": "gitpush",
+  "version": "0.0.1",
+  "description": "this is used to produce a shell which is easy to push update to git",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jimmyVV",
+  "license": "ISC"
+}
